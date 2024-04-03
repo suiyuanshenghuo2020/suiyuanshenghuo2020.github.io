@@ -1,0 +1,5 @@
+  # hexo-admin authentification
+  admin:
+    username: wujie
+    password_hash: $2a$10$b6hI2mocm3L4xR1dcQsGfe.oy.lZWPTNE.DclyDazcoMvsNIQAiYK
+    secret: 870619

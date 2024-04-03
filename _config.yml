@@ -113,9 +113,9 @@ deploy:
 
   repo: https://github.com/suiyuanshenghuo2020/suiyuanshenghuo2020.github.io.git,main 
 
-# hexo-admin authentification
-admin:
-  username: root
-  password_hash: $2a$10$arMzsisE/Mi9mkPBhg/Ju.JI.A9A6jj3Yzv4AhDMHZRwneR8aOw5K
-  secret: 1234
+  # hexo-admin authentification
+  admin:
+    username: wujie
+    password_hash: $2a$10$b6hI2mocm3L4xR1dcQsGfe.oy.lZWPTNE.DclyDazcoMvsNIQAiYK
+    secret: 870619
 
